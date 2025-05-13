@@ -208,7 +208,7 @@ export default function HomePage() {
         <div className="container flex justify-between items-center text-sm text-muted-foreground">
           <div className="flex items-center gap-2 font-bold text-xl">
             <BookOpen className="h-5 w-5" />
-            <span>Karan Bhatt</span>
+            <span>EndSem</span>
           </div>
           <p>© {new Date().getFullYear()}Jaldi Padho BC.</p>
         </div>
